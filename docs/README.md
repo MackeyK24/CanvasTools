@@ -13,6 +13,6 @@ HideFullScreenButton=False
 UseLegacyTemplate=False
 ForceAssertions=False
 PrewarmTimeout=3000
-TotalMemory=256
+TotalMemory=32
 ProjectTitle=My Unreal Project
 ```
