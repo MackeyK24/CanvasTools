@@ -14,5 +14,6 @@ UseLegacyTemplate=False
 ForceAssertions=False
 PrewarmTimeout=3000
 TotalMemory=256
+FixedMemory=False
 ProjectTitle=My Unreal Project
 ```
