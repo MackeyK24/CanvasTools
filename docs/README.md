@@ -8,6 +8,7 @@ DefaultEngine.ini
 [/Script/HTML5PlatformEditor.HTML5TargetSettings]
 CanvasScalingMode=Stretch
 Compressed=True
+ExternalServerPort=0
 HideFullScreenButton=False
 HideFramesPerSecond=False
 UseLegacyTemplate=False
