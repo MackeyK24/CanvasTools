@@ -5,9 +5,7 @@ DefaultEngine.ini
 ==================================
 
 ```
-[/Script/HTML5PlatformEditor.HTML5TargetSettings]
-CanvasScalingMode=Stretch
-Compressed=True
+[/Script/HtmlCanvasTools.CanvasSettings]
 ExternalServerPort=0
 HideFullScreenButton=False
 HideFramesPerSecond=False
@@ -16,5 +14,4 @@ ForceAssertions=False
 PrewarmTimeout=3000
 FixedMemory=False
 TotalMemory=256
-ProjectTitle=My Unreal Project
-```
+ProjectTitle=```
