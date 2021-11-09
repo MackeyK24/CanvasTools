@@ -1,7 +1,7 @@
 # CanvasTools - Unreal Engine Plugin
 
 
-DefaultEngine.ini
+Config Settings
 ==================================
 
 ```
@@ -14,4 +14,5 @@ ForceAssertions=False
 PrewarmTimeout=3000
 FixedMemory=False
 TotalMemory=256
-ProjectTitle=```
+ProjectTitle=
+```
